@@ -1,0 +1,439 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Applications/eclipse/adt-bundle-mac-x86_64-20130522/sdk/extras/android/m2repository/com/android/support/support-annotations/23.4.0/support-annotations-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ffbe55fdb2bb456b1485831706a9eac3300bb6b8">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/support-annotations-23.4.0_2f6bb91184661c62ff362486032b7a486c9bdd16/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp3/okhttp/3.3.1/19047bdb6a4fc00a44124f64ca98e88fc204e7e3/okhttp-3.3.1.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="19047bdb6a4fc00a44124f64ca98e88fc204e7e3">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-3.3.1_fd72e2a5a7181c253ef6201f79b3a4aed965485c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-safetynet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c11cf7a7a6e5adf8fa564303a11dbc351fc11b7c">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-safetynet-9.0.0_5a7d4523561cd3a718937a2e93c119a37021476d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appindexing/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4431efe5d0f67fab36a698dde725946b33a6bf4a">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appindexing-9.0.0_c184437f925bfe9bbe5ad07ff1a66244e5ba54f0/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5f0f6913a208a126269aaa68004ed0329a832c5b">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-common-9.0.0_ac0ac6478c670ec11e38ed5d8e1a9eddaa57b639/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads-lite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="79e4b41db41d4dbbf364c7bd6aaeee5b876c9d8b">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-lite-9.0.0_41e448edb74a6836aec511036f0fc99bd8872c3b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="8126914f5bc372a33e27ea90f02412c32468ce8a">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-9.0.0_6011b9b7b4e6b59018db95be04e7b82649cee280/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="373cd65725af2781d100ddc193c7d3f14464a774">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-impl-9.0.0_48b9c254bf70dc9c72b2fc84755bf3e743014633/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="548f06de403a9409f00554b3ee12a9fdea0e236c">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-appcompat-v7-23.4.0_08762d09948e66f6704e764451ed76c345f6c4df/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics-core/2.3.10/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f9a9b21b70965cde70f6eb8f2ee68794fb482e6">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-core-2.3.10_2ccf9404db5516a7f98c53cdc2b6c7fd867f13b8/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7a23185c9b1c100e7d1a32275017e4712e31c796">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-base-9.0.0_6032213c6a04e0f38963e5acfbe8b9a752a069cd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tasks/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="1941832901fc4e7a93300b53762e9f65d7650b99">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tasks-9.0.0_6dbab594a9e8e90a629b48d4ce9725f6cb4ce7fb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ed16ff19f0a9515604a0f08104ca0317b82e29e3">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-common-9.0.0_f6e6526c26a8da7dbe5398be5c982fe5dc978df3/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-fitness/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2f7bd8cc7519d5231aa8d2ae8e905d3f602bd491">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-fitness-9.0.0_d9681948c5ff49b204505d3548980abfde0ea09d/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wearable/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="184428c29b2a4b220cd44284d515db5d8cb5fc76">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wearable-9.0.0_174c7dadb18635fb5d26dae532418711167d996f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.crashlytics.sdk.android/answers/1.3.8/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0c46a5a897439810b6c437ce188bd07d9d8dffb0">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-answers-1.3.8_8d68669c54c0dff753ab1c24585f2a1da93ec31c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4ef8ab5fee042023018249474bc93bd4b2b9c17e">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-9.0.0_e368e394a41141e421387c6f0960eb13690bb41c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-drive/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="294d49a66cc1238d9f7fd352136a45622fa98c0f">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-drive-9.0.0_c98d439681cca6f447b7152324352f598bfb7869/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database-connection/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ef5c5c2afbd174d55cf1cfcac7d0346cbc4c1322">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-connection-9.0.0_f4163c1658dd9d93e6403e3bd1567464bc332d62/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth-module/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="24536a7b97926a9c155c88425da6875adeb11b51">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-module-9.0.0_346374d13a5f7000d790fd42df2903609f4a82fd/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="6f65c144283b31b4b9a70e6e7aa4c4a1c897d4b8">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-base-9.0.0_7d7692ef9923e79fcaa92136c8e40ee2f3390d6c/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.android.support/animated-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="de4db3785756bfb0915a9f59a9b3f2fea7407be4">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-animated-vector-drawable-23.4.0_0ba007cd31d7f2762563c6b682498e9f7e9521af/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.android.support/support-vector-drawable/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="c2c594cace5d83a3227b2b6e658ecbfd586d3ed9">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-vector-drawable-23.4.0_cef6d9ff1aeb32402a372a131d1fc264b45c0a70/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-database/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="32a5a566ae197603d0bed3e6d1d275f6a771564e">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-database-9.0.0_5be6141be74681871b7d4822e076af009827bdeb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-common/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="42df48c7305b08b14fa0e84561091b0c24d70d26">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-common-9.0.0_50b7dbac5a6143032571ccff5262a5b19d385895/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-maps/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a819aae4f0c711e50b4fd633922a3c1a176cb51e">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-maps-9.0.0_6a852d2819f95a9cd81269f5755c914de7b555bb/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-crash/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7e467a973b749c6390a5991c9a8edbde96fc10c9">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-crash-9.0.0_c86d4e63f2076d6351d17cef594cea6b884d0735/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-tagmanager-api/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="69472e334350cafbf442776da05c9a04955252fb">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-tagmanager-api-9.0.0_00ba3d4c4c761995325d4a13ad018271f7f6f15f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="70ddab48594608953b20164b82f1f890a9a8174a">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-auth-9.0.0_93edddf208e72c85aecead20055c53cd06b86e33/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/.gradle/caches/modules-2/files-2.1/com.squareup.okhttp/okhttp/2.4.0/40340c0748190fe897baf7bffbc1b282734294e5/okhttp-2.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="40340c0748190fe897baf7bffbc1b282734294e5">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/okhttp-2.4.0_77fcac0913b201e5969118f3a653285f073db634/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-games/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2c5bc0ebbe69c9fab587c2216b36ec44ab8f0704">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-games-9.0.0_ccf9353407655610b4c5170b7d3bc4751b984913/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.crashlytics.sdk.android/crashlytics/2.6.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="32246804c761c812b32f01ea7ec7343622d0d91c">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-crashlytics-2.6.0_f7a2245cb9ae4319d3fe9661915e015fc5c3f210/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-config/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ebfde1a055aea400df77584a68aa60609f618bed">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-config-9.0.0_12623f4b3671ff52f974e5dfadeb5b8f5bd76003/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-ads/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="2cb29455028e92e024bbad0d41c6ec772f2433d1">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-ads-9.0.0_b7d7a03d70175fdf769f4e7a81461da669c35c97/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="cc178928721f3222b3b06bdfbd9497378ccb9792">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-basement-9.0.0_f30f5dd07e905b3852841adde1a05e07d4205135/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-nearby/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0facc6fc326f2406f4bb9b02f442994c5ce6a403">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-nearby-9.0.0_ac46228e7a11104455fd6b6e5e9a6ea43f10605f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="b8bedab61b3b5238cd9a07d3b04449d7fecdbc3b">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-analytics-9.0.0_8df2a25822b4800c93e3ebae3bb72d5d6e9fc7c4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-auth/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7da84426d876216ed4cdddd85e739be5ecabdd04">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-auth-9.0.0_b07ce26e851caa7a066a480f38c86b25a3feb848/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67bd36ee9340ec7c254108936ad16b24bed160cc">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-support-v4-23.4.0_7e6e293cc882b457c0aec6958d54bec2e6b09936/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.android.support/support-v4/23.4.0/jars/libs/internal_impl-23.4.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea3c07504d2c8f4b13aa17c45c1b68ed9c1c3674">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.4.0_624cd998dfb2a23dc90fac0f209d901bc6086b6b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-cast/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e595f98f8c525201dccd119f43ad1ddacd4c48d6">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-cast-9.0.0_06ec1e1913c3e60a767ec08be360d71ac1ffbab9/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.crashlytics.sdk.android/beta/1.2.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="35584aa0ef1d87109a997cfed2662801f304a3c0">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.crashlytics.sdk.android-beta-1.2.0_1b28bc3c4ea62d190ec7a07a5dd31e497756f368/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-panorama/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="67a7d712de3e7d025f4efdcec1da183f764bdbab">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-panorama-9.0.0_f093a6923b10abe899a285cf10ac04f397909cef/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/org.altbeacon/android-beacon-library/2.8.1/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d635ba0566039772656378e67a302aa3448f5c29">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/org.altbeacon-android-beacon-library-2.8.1_984fe712c47847ae29050731866a2b637da2f49a/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-vision/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="f4e85eafa876cd7d7641244867dac3f88d71e866">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-vision-9.0.0_85580f76a3b53ef017c6948597c822205b94fce1/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.android.support-mediarouter-v7-23.0.0_fb711beb8c31dfc8a1186d8c251aa2d05e350042/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-storage/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="733964f04c339e425439545b1d172c23b53f8c13">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-storage-9.0.0_63924d5467aba44c9c4c2be6f38ea4f749e1b61f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-wallet/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d7002ed92a3c46c6a89a786877ecf7978a4f0459">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-wallet-9.0.0_23237e20004ae1718a4d180afe564358a4a08c88/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-messaging/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="005786793d72c6deacbbbfd38177ed58e1aa6653">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-messaging-9.0.0_5389cb7e616d9276d402208a2c62ddc16b96d5c7/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="ea4b54dcbfe5ac05efb0a314105f07258118d3a7">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-iid-9.0.0_e36112c08979c496a797434e7256618a0cfe7ace/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="e2c81b8f1b77bff4162640d00fc0f843eff92bb2">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_342781069d12e0e221939d7afb99d80adc23c883/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-appinvite/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="d96f9f3ef66494d1231304cafd28c962dda80dea">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-appinvite-9.0.0_6101a23ef25a345ec1df2352f0bfc555efcdbd31/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.firebase/firebase-analytics-impl/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="0dc8ab07eeceda5e99b305c8069765056b6e5c9d">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.firebase-firebase-analytics-impl-9.0.0_9a623ecab300c862a72239907fef9accadadd671/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-iid/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="379d1834afa3c08f43be23a23b103053537b65b5">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-iid-9.0.0_afa4aacd3bf449e9da93eecaf46530664e7891e5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="59cca9b91688dc2467754d36793b3d23bebd21a9">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-location-9.0.0_083526625857112fe1491bc981e5ceb581ec448f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/jars/libs/internal_impl-23.0.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/internal_impl-23.0.0_d71fb923c0454ef327437d312b857b3eb51f08e4/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-plus/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="817b9101192f2fd6dc0fd8cd522d8f4a1a75fcdc">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-plus-9.0.0_6884fe38823d30b4df42b6144faddf89bec72100/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/.gradle/caches/modules-2/files-2.1/com.squareup.okio/okio/1.8.0/5ea7af56cc7c567ed9856d99efb30740e9b17ff/okio-1.8.0.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="05ea7af56cc7c567ed9856d99efb30740e9b17ff">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/okio-1.8.0_8e141960e10277aa8aee5321c995795a45cafc5b/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="7936244589a57c521b8326ea3807379bf8816b38">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_09bf0a2755fdef7d8c5a99f0023463000967be02/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/io.fabric.sdk.android/fabric/1.3.12/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3575e73a22dce98f0bdbcdb475ef55a84606a9a6">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/io.fabric.sdk.android-fabric-1.3.12_31e547ede9255d0fa0b12e26429c5f3a42d5413f/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-gcm/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="4caf75b2cfb7ec6e80a57d0ee64fc102ad3578b8">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-gcm-9.0.0_3f0caa1da9c653aae71d5c698e865034085304d5/classes.dex" />
+    </item>
+    <item
+        jar="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/exploded-aar/com.google.android.gms/play-services-identity/9.0.0/jars/classes.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="5289e799a43a64c4137d109bf992e10a2f952aa3">
+        <dex dex="/Users/Alessio/Desktop/Test/BLEscanInteraction/mobile/build/intermediates/transforms/dex/debug/folders/1000/10/com.google.android.gms-play-services-identity-9.0.0_9642ce6d4202918cf5c35e79aabe1fbc1d31b545/classes.dex" />
+    </item>
+
+</items>
